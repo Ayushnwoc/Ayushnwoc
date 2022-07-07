@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ayush Kumar
 - 🔭 I’m currently studing in IIT Patna
 - 🌱 I’m currently learning C++
-- 👀 I’m interested in ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in CP as well as development
+- 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me ...
 
 <!---
